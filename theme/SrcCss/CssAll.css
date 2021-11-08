@@ -223,7 +223,7 @@ body{font-family: 'Noto Sans', sans-serif;}
 			.topslider .kx_size{box-sizing:border-box; padding:5px;}
 
 	.rightcol{width:854px; float:left; position:relative; box-sizing:border-box; padding:0 0 0 5px;}
-		.hotline{float:right; margin:-100px 0 0 0; position:relative;}
+		/* .hotline{float:right; margin:-100px 0 0 0; position:relative;}
 			.hotline:before{content:""; width:21px; height:93px; background:url(../SrcImg/hotline_pre.png) center center no-repeat; position:absolute; left:0; top:0; z-index:2;}
 			.hl_img{width:232px; height:93px; float:left; margin:0; background:url(../SrcImg/hotline.png) center right no-repeat; animation:anihotline ease-in-out 10000ms infinite;}	
 			@keyframes anihotline{
@@ -232,7 +232,7 @@ body{font-family: 'Noto Sans', sans-serif;}
 				75%{width:232px;}
 				90%{width:38px;}
 				100%{width:38px;}
-			}
+			} */
 			.errorpage{float:left; margin:-50px 0 0 0; position:relative;}
 			.errorpage:before{content:""; width:21px; height:93px; background:url(../SrcImg/hotline_pre.png) center center no-repeat; position:absolute; left:0; top:0; z-index:2;}
 			
